@@ -29,3 +29,6 @@ export API_URL='https://myvm.hiformance.com/api/client/command.php'
 
 
 指令控制服务部分待完成,计划使用paramiko模块，或者使用ansible完成。
+
+
+![](pic/github.png)
