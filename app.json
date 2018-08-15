@@ -1,0 +1,6 @@
+{
+  "name": "Flask wechatpy for solusVM",
+  "description": "An wechatpy of deploying Flask web app to Heroku.",
+  "image": "heroku/python",
+  "keywords": ["python", "flask" ]
+}
